@@ -10,5 +10,7 @@ spring:
     show-sql: true
 server:
   port: 8002
-age: 18
+girl:
+  name:faker
+  age:18
   
