@@ -12,6 +12,6 @@ server:
   port: 8001
 env: uzi
 girl:
-  name: faker111
+  name: fak
   age: 20222
 
