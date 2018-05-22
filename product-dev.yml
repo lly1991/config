@@ -10,4 +10,8 @@ spring:
     show-sql: true
 server:
   port: 8001
+env: test
+girl:
+  name: lly
+  age: 18
 
