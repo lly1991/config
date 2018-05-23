@@ -10,5 +10,5 @@ server:
   port: 8002
 girl:
   name: aa
-  age: 1312133
+  age: 1
 env: dev
