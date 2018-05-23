@@ -14,8 +14,3 @@ girl:
   name: aa
   age: 1312133
 env: test
-rabbitmq:
-    port: 5672
-    password: guest
-    username: guest
-    addresses: localhost
