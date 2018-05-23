@@ -11,7 +11,7 @@ spring:
 server:
   port: 8002
 girl:
-  name: 223333faker
+  name: 1111
   age: 1312
 env: test
   
