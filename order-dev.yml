@@ -11,4 +11,4 @@ server:
 girl:
   name: aa
   age: 1
-env: dev
+env: test
