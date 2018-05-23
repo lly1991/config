@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql://master/springCloud?characterEncoding=utf-8&&useSSL=false
+  jpa:
+    show-sql: true
+server:
+  port: 8006
+girl:
+  name: aa
+  age: 1
+env: test
