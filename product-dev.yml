@@ -19,4 +19,7 @@ env: dev
 girl:
   name: faker
   age: 221
-
+eureka:
+  client:
+    service-url:
+      defaultZone: http://master:8000/eureka/,http://master:8001/eureka/
