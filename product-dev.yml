@@ -10,7 +10,7 @@ spring:
     show-sql: true
 server:
   port: 8001
-env: uzi
+env: dev
 girl:
   name: fak
   age: 22
