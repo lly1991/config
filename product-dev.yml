@@ -17,6 +17,6 @@ server:
   port: 8200
 env: dev
 girl:
-  name: fak
+  name: faker
   age: 221
 
