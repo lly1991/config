@@ -6,9 +6,14 @@ spring:
     url: jdbc:mysql://master/springCloud?characterEncoding=utf-8&&useSSL=false
   jpa:
     show-sql: true
+  rabbitmq:
+    port: 5672
+    host: localhost
+    username: guest
+    password: guest
 server:
-  port: 8002
+  port: 8210
 girl:
   name: aa
   age: 1
-env: test
+env: dev
