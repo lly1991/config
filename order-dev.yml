@@ -11,6 +11,7 @@ spring:
     host: localhost
     username: guest
     password: guest
+    content-type: application/json
 server:
   port: 8210
 girl:
