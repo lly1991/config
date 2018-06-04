@@ -12,6 +12,11 @@ spring:
     username: guest
     password: guest
     content-type: application/json
+ redis:
+  host: 127.0.0.1
+  port: 6379
+  password:
+  timeout: 100
 server:
   port: 8210
 girl:
