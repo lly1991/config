@@ -24,4 +24,4 @@ zuul:
 #    product: /myProduct/**
 
 #  忽略git pull origin master ----allow-unrelated-histories
-#  ignored-patterns:  /order/**
+  ignored-patterns:  /**/product
